@@ -1,0 +1,6 @@
+{
+  "name": "Life in Receipts: Narrative Intelligence",
+  "description": "An interactive digital storytelling experience transforming fragments of digital life—songs, places, purchases, photos, searches, and notes—into meaningful narrative chapters and pattern discoveries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
