@@ -20,3 +20,6 @@ The app runs locally at `http://localhost:3000`.
 ```bash
 npm run build
 ```
+
+
+Live Preview :- https://narrativeintelligence.vercel.app/
